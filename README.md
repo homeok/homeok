@@ -3,7 +3,7 @@
 <h2>👨‍💻 Active Directory Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Setup](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>Certifications</h2>
 
