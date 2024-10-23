@@ -3,7 +3,7 @@
 <h2>👨‍💻 Active Directory Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Active Directory Setup](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Setup](https://github.com/homeok/Active-Directory-Setup.git)
   - [Microsoft Exchange Server Setup]()
 
 <h2>Certifications</h2>
