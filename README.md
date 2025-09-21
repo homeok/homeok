@@ -18,6 +18,7 @@
 
 - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/YR95TXNK5NW5)
 - [CompTIA A+](https://www.credly.com/badges/bd79759e-159c-423b-9b5a-44907d5030d1/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/da024e51-9ba5-4f45-a9ac-6cf369664d34/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
