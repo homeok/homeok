@@ -8,6 +8,12 @@
   - [Add Windows 10 Machine to Server 2022](https://github.com/homeok/Add-Computer-to-Domain.git)
   - [Create Users](https://github.com/homeok/Create-Users.git)
 
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+- <b>Security Operations Home Lab</b>
+  - [Firewall Setup with Pfsense]
+
+
 <h2>Certifications</h2>
 
 - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/YR95TXNK5NW5)
