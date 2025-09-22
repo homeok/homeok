@@ -12,6 +12,7 @@
 
 - <b>Security Operations Home Lab</b>
   - [Firewall Setup with Pfsense](https://github.com/homeok/Firewall-Setup-with-PfSense.git)
+  - [Install Security Onion]
 
 
 <h2>Certifications</h2>
