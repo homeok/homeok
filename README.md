@@ -11,7 +11,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Security Operations Home Lab</b>
-  - [Firewall Setup with Pfsense]
+  - [Firewall Setup with Pfsense](https://github.com/homeok/Firewall-Setup-with-PfSense.git)
 
 
 <h2>Certifications</h2>
