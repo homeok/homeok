@@ -15,6 +15,15 @@
   - [Install Security Onion](https://github.com/homeok/Install-Security-Onion.git)
 
 
+- <b>Security Onion Investigations</b>
+
+
+- <b>Wireshark PCAP Analysis</b>
+
+
+- <b>Security Onion PCAP Analysis</b>
+
+
 <h2>Certifications</h2>
 
 - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/YR95TXNK5NW5)
