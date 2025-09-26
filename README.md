@@ -18,6 +18,9 @@
 - <b>Security Onion Investigations</b>
 
 
+- <b>Splunk Investigations</b>
+
+
 - <b>Wireshark PCAP Analysis</b>
 
 
