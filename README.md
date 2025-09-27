@@ -13,6 +13,7 @@
 - <b>Security Operations Home Lab</b>
   - [Firewall Setup with Pfsense](https://github.com/homeok/Firewall-Setup-with-PfSense.git)
   - [Install Security Onion](https://github.com/homeok/Install-Security-Onion.git)
+  - [Install Splunk server](
 
 
 - <b>Security Onion Investigations</b>
